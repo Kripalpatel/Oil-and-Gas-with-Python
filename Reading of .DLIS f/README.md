@@ -1,0 +1,1 @@
+This code will help to read the .DILS file format. This file might contais a series of the log data of the MWD tool, while the drilling. This really help for the futher acess of the MWD data from the file.
